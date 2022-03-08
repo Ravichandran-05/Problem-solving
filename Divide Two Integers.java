@@ -42,7 +42,7 @@ class Solution {
             divisor = -divisor;
         if (dividend == divisor)
             return sign;
-        
+       
         for (int i = 0, val = divisor; dividend - divisor >= 0;i = 0, val = divisor) 
         {
             while (val > 0 && dividend - val >= 0) 
