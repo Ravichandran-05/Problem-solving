@@ -7,7 +7,6 @@ F(n) = F(n - 1) + F(n - 2), for n > 1.
 Given n, calculate F(n).
 
 
-
 Example 1:
 
 Input: n = 2
